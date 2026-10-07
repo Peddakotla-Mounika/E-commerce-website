@@ -11,10 +11,10 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home Page.png)
 
 ### sign up  Page
-![sign up](Sign up.png)
+![sign up](screenshots/Sign up.png)
 
 ### your cart page
 ![Cart](your cart.png)
