@@ -11,7 +11,7 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
 ## Screenshots
 
 ### Home Page
-![Home](Home page.png)
+![Home Page](screenshots/home.png)
 
 ### sign up  Page
 ![sign up](Sign up.png)
